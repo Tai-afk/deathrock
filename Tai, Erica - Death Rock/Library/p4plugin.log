@@ -1,0 +1,605 @@
+p1:-1 0 Change 147630 created with 1 open file(s).
+p1:-1 0 Submitting change 147630.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/ProjectSettings/VersionControlSettings.asset#2
+p1:-1 0 Change 147630 submitted.
+p1:-1 0 Change 147631 created with 1 open file(s).
+p1:-1 0 Submitting change 147631.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/ProjectSettings/VersionControlSettings.asset#3
+p1:-1 0 Change 147631 submitted.
+p1:-1 0 Change 147632 created with 1 open file(s).
+p1:-1 0 Submitting change 147632.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/DeathRock.unity#2
+p1:-1 1 Change 147632 submitted.
+p1:-1 0 Change 147633 created with 5 open file(s).
+p1:-1 0 Submitting change 147633.
+p1:-1 0 Locking 5 files ...
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/GameManager.prefab#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/GameManager.prefab.meta#1
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/SampleScene.unity#2
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/KillZone.cs#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/KillZone.cs.meta#1
+p1:-1 0 Change 147633 submitted.
+p1:-1 1 Change 147645 created with 1 open file(s).
+p1:-1 1 Submitting change 147645.
+p1:-1 1 Locking 1 files ...
+p1:-1 1 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/ProjectSettings/TagManager.asset#2
+p1:-1 1 Change 147645 submitted.
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 1 Change 147666 created with 2 open file(s).
+p1:-1 1 Submitting change 147666.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/DeathRock.unity#3
+p1:-1 1 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/SampleScene.unity#3
+p1:-1 1 Change 147666 submitted.
+p1:-1 1 Change 147688 created with 1 open file(s).
+p1:-1 1 Submitting change 147688.
+p1:-1 1 Locking 1 files ...
+p1:-1 1 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Zombie.prefab#2
+p1:-1 1 Change 147688 submitted.
+p1:-1 0 Change 147689 created with 1 open file(s).
+p1:-1 0 Submitting change 147689.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Zombie.prefab#3
+p1:-1 0 Change 147689 submitted.
+p1:-1 0 Change 147693 created with 2 open file(s).
+p1:-1 0 Submitting change 147693.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieManager.cs#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieManager.cs.meta#1
+p1:-1 1 Change 147693 submitted.
+p1:-1 0 Change 147694 created with 1 open file(s).
+p1:-1 0 Submitting change 147694.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieManager.cs.meta#2
+p1:-1 0 Change 147694 submitted.
+Can't clobber writable file C:\Users\Taine\Perforce\tainguye_ctin484\20213\18406\_TheGame\Tai, Erica - Death Rock\Assets\Scripts\ZombieManager.cs
+
+e1:Can't clobber writable file C:\\Users\\Taine\\Perforce\\tainguye_ctin484\\20213\\18406\\_TheGame\\Tai, Erica - Death Rock\\Assets\\Scripts\\ZombieManager.cs\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 1 Change 147922 created with 101 open file(s).
+p1:-1 1 Submitting change 147922.
+p1:-1 1 Locking 101 files ...
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1.meta#1
+p1:-1 1 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember10001.controller#2
+p1:-1 1 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember10001.controller.meta#2
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_100.controller#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_100.controller.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_100.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_100.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_101.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_101.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_102.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_102.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_103.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_103.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_104.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_104.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_105.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_105.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_106.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_106.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_107.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_107.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_108.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_108.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_109.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_109.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_110.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_110.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_111.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_111.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_112.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_112.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_anim.anim#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_anim.anim.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand200.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand200.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand201.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand201.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand202.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand202.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand203.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand203.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand204.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand204.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand205.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand205.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand206.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand206.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand207.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand207.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand208.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand208.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand209.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand209.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand210.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand210.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand211.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand211.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand212.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand212.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk00.controller#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk00.controller.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk00.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk00.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk01.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk01.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk02.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk02.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk03.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk03.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk04.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk04.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk05.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk05.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk06.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk06.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk07.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk07.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk08.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk08.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk09.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk09.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk10.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk10.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk11.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk11.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk12.png#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk12.png.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie_anim.anim#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie_anim.anim.meta#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/ConvertedHuman.prefab#1
+p1:-1 1 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/ConvertedHuman.prefab.meta#1
+p1:-1 1 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Human.prefab#2
+p1:-1 1 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Zombie.prefab#4
+p1:-1 1 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/DeathRock.unity#4
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/SampleScene.unity#4
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieManager.cs#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieManager.cs.meta#3
+p1:-1 3 Change 147922 submitted.
+p1:-1 0 Change 147923 created with 1 open file(s).
+p1:-1 0 Submitting change 147923.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/SampleScene.unity#5
+p1:-1 0 Change 147923 submitted.
+p1:-1 0 Change 148890 created with 30 open file(s).
+p1:-1 0 Submitting change 148890.
+p1:-1 0 Locking 30 files ...
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Background.prefab#2
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Human.prefab#3
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/KillZone.prefab#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/KillZone.prefab.meta#1
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Zombie.prefab#5
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/DeathRock.unity#5
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/Guitar.prefab#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/Guitar.prefab.meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieManager.prefab#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieManager.prefab.meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001.meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff).meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/bassline_bg.png#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/bassline_bg.png.meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_cyan.png#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_cyan.png.meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_pink.png#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_pink.png.meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_purple.png#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_purple.png.meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_yellow.png#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_yellow.png.meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_cyan.png#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_cyan.png.meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_pink.png#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_pink.png.meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_purple.png#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_purple.png.meta#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_yellow.png#1
+p1:-1 0 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_yellow.png.meta#1
+p1:-1 1 Change 148890 submitted.
+e32:TCP receive failed.\nread: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 0 Change 149252 created with 1 open file(s).
+p1:-1 0 Submitting change 149252.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/DeathRock.unity#6
+p1:-1 1 Change 149252 submitted.
+p1:-1 0 Change 149253 created with 1 open file(s).
+p1:-1 0 Submitting change 149253.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Activator.prefab#2
+p1:-1 0 Change 149253 submitted.
+e32:TCP receive failed.\nread: socket: WSAECONNRESET\n
+e32:TCP connect to perforce.sca.usc.edu: 1666 failed.\nNo such host is known. \n
+p1:-1 1 Change 149417 created with 2 open file(s).
+p1:-1 1 Submitting change 149417.
+p1:-1 1 Locking 2 files ...
+p1:-1 1 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/DeathRock.unity#7
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/SampleScene.unity#6
+p1:-1 3 Change 149417 submitted.
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 0 Change 149427 created with 1 open file(s).
+p1:-1 0 Submitting change 149427.
+p1:-1 0 Locking 1 files ...
+p1:-1 0 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/DeathRock.unity#8
+p1:-1 3 Change 149427 submitted.
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 3 Change 149456 created with 45 open file(s).
+p1:-1 3 Submitting change 149456.
+p1:-1 3 Locking 45 files ...
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Activator.prefab#3
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingText.anim#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingText.anim.meta#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingText.controller#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingText.controller.meta#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingTextPrefab.prefab#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingTextPrefab.prefab.meta#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/InstrumentSwitcher.prefab#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/InstrumentSwitcher.prefab.meta#1
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/KillZone.prefab#2
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Green).prefab#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Green).prefab.meta#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Pink).prefab#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Pink).prefab.meta#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Purple.prefab#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Purple.prefab.meta#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Yellow).prefab#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Yellow).prefab.meta#1
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note.prefab#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note.prefab.meta#2
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Good).prefab#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Good).prefab.meta#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Ok).prefab#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Ok).prefab.meta#1
+p1:-1 3 move/add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Perfect).prefab#1
+p1:-1 3 move/add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Perfect).prefab.meta#1
+p1:-1 3 move/delete //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System.prefab#2
+p1:-1 3 move/delete //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System.prefab.meta#2
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/particle.png#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/particle.png.meta#1
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/DeathRock.unity#9
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/SampleScene.unity#7
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/DestroyText.cs#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/DestroyText.cs.meta#1
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/Guitar.prefab#2
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_cyan.png#1
+p1:-1 3 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_cyan.png.meta#1
+p1:-1 4 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_pink.png#1
+p1:-1 4 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_pink.png.meta#1
+p1:-1 4 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_purple.png#1
+p1:-1 4 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_purple.png.meta#1
+p1:-1 4 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_yellow.png#1
+p1:-1 4 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_yellow.png.meta#1
+p1:-1 4 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/particle.png#1
+p1:-1 4 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/particle.png.meta#1
+p1:-1 5 Change 149456 submitted.
+p1:-1 2 Change 149505 created with 318 open file(s).
+p1:-1 2 Submitting change 149505.
+p1:-1 2 Locking 318 files ...
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1.anim#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1.anim.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1.meta#2
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10000.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10000.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10001.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10001.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10002.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10002.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10003.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10003.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10004.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10004.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10005.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10005.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10006.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10006.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10007.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10007.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10008.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10008.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10009.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10009.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10010.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10010.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10011.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10011.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10012.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember1/bandmember10012.png.meta#1
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember10001.controller#3
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember10001.controller.meta#3
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2.anim#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2.anim.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2.meta#2
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20000.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20000.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20001.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20001.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20002.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20002.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20003.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20003.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20004.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20004.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20005.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20005.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20006.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20006.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20007.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20007.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20008.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20008.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20009.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20009.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20010.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20010.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20011.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20011.png.meta#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20012.png#1
+p1:-1 2 add //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember2/bandmember20012.png.meta#1
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember20007.controller#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmember20007.controller.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmemberOne.anim#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmemberOne.anim.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmemberTwo.anim#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/bandmemberTwo.anim.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/ezgif.com-gif-maker(2).png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/ezgif.com-gif-maker(2).png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/ezgif.com-gif-maker.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/ezgif.com-gif-maker.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/ezgif_com-gif-maker(2)_0.controller#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/ezgif_com-gif-maker(2)_0.controller.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/ezgif_com-gif-maker_0.controller#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/ezgif_com-gif-maker_0.controller.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_100.controller#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_100.controller.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_100.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_100.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_101.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_101.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_102.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_102.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_103.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_103.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_104.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_104.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_105.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_105.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_106.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_106.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_107.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_107.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_108.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_108.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_109.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_109.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_110.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_110.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_111.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_111.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_112.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_112.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_anim.anim#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/npc1_stand/npc_anim.anim.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand200.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand200.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand201.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand201.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand202.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand202.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand203.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand203.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand204.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand204.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand205.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand205.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand206.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand206.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand207.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand207.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand208.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand208.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand209.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand209.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand210.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand210.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand211.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand211.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand212.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_stand2/zombie1_stand212.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk00.controller#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk00.controller.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk00.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk00.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk01.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk01.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk02.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk02.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk03.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk03.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk04.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk04.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk05.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk05.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk06.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk06.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk07.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk07.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk08.png#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk08.png.meta#2
+p1:-1 2 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk09.png#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk09.png.meta#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk10.png#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk10.png.meta#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk11.png#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk11.png.meta#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk12.png#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie1_walk12.png.meta#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie_anim.anim#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Animations/zombies/zombie_anim.anim.meta#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Audio.meta#2
+p1:-1 3 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Audio/Glass Animals - Heat Waves.mp3#2
+p1:-1 8 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Audio/Glass Animals - Heat Waves.mp3.meta#2
+p1:-1 8 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Fonts.meta#2
+p1:-1 8 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Fonts/SuperMario256.ttf#2
+p1:-1 8 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Fonts/SuperMario256.ttf.meta#2
+p1:-1 8 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Fonts/ThaleahFat_TTF.ttf#2
+p1:-1 8 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Fonts/ThaleahFat_TTF.ttf.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Activator 1.prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Activator 1.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Activator.prefab#4
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Activator.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Background.prefab#3
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Background.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Canvas 1.prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Canvas 1.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Canvas.prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Canvas.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/ConvertedHuman.prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/ConvertedHuman.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingText.anim#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingText.anim.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingText.controller#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingText.controller.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingTextPrefab.prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/FloatingTextPrefab.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/GameManager.prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/GameManager.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Human.prefab#4
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Human.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/InstrumentSwitcher.prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/InstrumentSwitcher.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/KillZone.prefab#3
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/KillZone.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/MainMenu.prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/MainMenu.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Green).prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Green).prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Pink).prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Pink).prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Purple.prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Purple.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Yellow).prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note(Yellow).prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note.prefab#3
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Note.prefab.meta#3
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Good).prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Good).prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Ok).prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Ok).prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Perfect).prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Particle System (Perfect).prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/particle.png#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/particle.png.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/RockMeter.prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/RockMeter.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Zombie.prefab#6
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Prefabs/Zombie.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/DeathRock.unity#10
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/DeathRock.unity.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/LoseScene.unity#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/LoseScene.unity.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/Menu.unity#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/Menu.unity.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/SampleScene.unity#8
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/SampleScene.unity.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/WinScene.unity#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scenes/WinScene.unity.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/Activator.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/Activator.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/DestroyText.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/DestroyText.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/GameManager.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/GameManager.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/Guitar.prefab#3
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/Guitar.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/HumanBehavior.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/HumanBehavior.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/KillZone.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/KillZone.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/MainMenu.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/MainMenu.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/MusicManager.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/MusicManager.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/Note.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/Note.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/RockMeter.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/RockMeter.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/Score.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/Score.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/SwitchMusic.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/SwitchMusic.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieBehavior.cs#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieBehavior.cs.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieManager.cs#3
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieManager.cs.meta#4
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieManager.prefab#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Scripts/ZombieManager.prefab.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/bandmember1.gif#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/bandmember1.gif.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/bandmember2.gif#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/bandmember2.gif.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff).meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/bassline_bg.png#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/bassline_bg.png.meta#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_cyan.png#2
+p1:-1 9 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_cyan.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_pink.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_pink.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_purple.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_purple.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_yellow.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/button_yellow.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_cyan.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_cyan.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_pink.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_pink.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_purple.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_purple.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_yellow.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Beatmap assets (buttons + stuff)-20211011T181306Z-001/Beatmap assets (buttons + stuff)/note_yellow.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/deathrocklogo_1(1).png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/deathrocklogo_1(1).png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_cyan.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_cyan.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_pink.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_pink.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_purple.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_purple.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_yellow.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/note_yellow.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/particle.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/particle.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/pxl_band(1).png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/pxl_band(1).png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/pxl_guitarcross(1).png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/pxl_guitarcross(1).png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Sprite-0001 1.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Sprite-0001 1.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Sprite-0001.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Sprite-0001.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Sprite-0002.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Sprite-0002.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Sprite-0003.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/Sprite-0003.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/stagerough.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/stagerough.png.meta#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/stageroughstraight.png#2
+p1:-1 10 edit //CTIN_484/20213/18406/_TheGame/20213/18406/_TheGame/Tai, Erica - Death Rock/Assets/Sprites/stageroughstraight.png.meta#2
+p1:-1 88 Change 149505 submitted.
